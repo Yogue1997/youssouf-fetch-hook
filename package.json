@@ -1,0 +1,23 @@
+{
+  "name": "youssouf-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "YoussoufFetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yogue1997/youssouf-fetch-hook.git"
+  },
+  "author": "Youssouf Esuke Yogue [yousyogue@gmail.com]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yogue1997/youssouf-fetch-hook/issues"
+  },
+  "homepage": "https://github.com/Yogue1997/youssouf-fetch-hook#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
